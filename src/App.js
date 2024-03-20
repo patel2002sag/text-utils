@@ -53,7 +53,7 @@ function App() {
               </div>
           }
         />
-        <Route exact path = "/about" element = {<About/>}/>
+        <Route exact  path = "/about" element = {<About/>}/>
       </Routes>
     </BrowserRouter>
     </>

@@ -1,7 +1,7 @@
 {
   "name": "text-utils",
   "version": "0.1.0",
-  "homepage": "https://patel2002sag.github.io/text-utils-app.git",
+  "homepage": "https://patel2002sag.github.io/text-utils",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
